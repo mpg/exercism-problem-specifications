@@ -85,10 +85,8 @@ For a solid foundation in modern cryptography, you can check out the [Crypto 101
 [cc]: https://en.wikipedia.org/wiki/Caesar_cipher
 [img-caesar-cipher]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/320px-Caesar_cipher_left_shift_of_3.svg.png
 [vc]: https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
-
 [sc]: https://en.wikipedia.org/wiki/Substitution_cipher
 [tc]: https://en.wikipedia.org/wiki/Transposition_cipher
 [aes]: https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
-
 [dh]: https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
 [c101]: https://cryptography101.ca/crypto101-building-blocks/
